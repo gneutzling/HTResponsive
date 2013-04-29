@@ -26,3 +26,13 @@
 .reveal .image-list ul:last-child {
 	margin: 0;
 }
+
+figcaption {
+	font-style: italic !important;
+}
+
+.no-border {
+	border: none !important;
+	background: none !important;
+	box-shadow: none !important;
+}
