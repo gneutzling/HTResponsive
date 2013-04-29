@@ -27,12 +27,16 @@
 	margin: 0;
 }
 
-figcaption {
+.reveal figcaption {
 	font-style: italic !important;
 }
 
-.no-border {
-	border: none !important;
-	background: none !important;
-	box-shadow: none !important;
+.reveal .no-border {
+	border: none;
+	background: none;
+	box-shadow: none;
+}
+
+.reveal .big {
+	font-size: 1.5em;
 }
