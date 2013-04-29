@@ -1,0 +1,28 @@
+.reveal .image-list {
+	
+}
+
+.reveal .image-list li {
+	float: left;
+	margin: 0 10px;
+	list-style: none;
+}
+
+.reveal .image-list img {
+	display: block;
+	border: none;
+	background: none;
+	box-shadow: none;
+}
+
+.reveal .image-list span {
+	font-size: 2em;
+	font-weight: bold;
+	line-height: 1.5em;
+	color: rgba(255, 255, 255, 0.5);
+}
+
+.reveal .image-list ul:first-child, 
+.reveal .image-list ul:last-child {
+	margin: 0;
+}
